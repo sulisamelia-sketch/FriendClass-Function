@@ -25,3 +25,7 @@ public:
 };
 
 
+class BelahKetupat {
+private:
+    double d1, d2;
+
